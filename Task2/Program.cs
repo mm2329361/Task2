@@ -139,6 +139,8 @@
                             numbers[numbers.Count() - i - 1] = swap;
                         }
                         break;
+                    default:
+                        Console.WriteLine("Invalid inbut");
 
                    
 
