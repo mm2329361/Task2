@@ -141,6 +141,7 @@
                         break;
                     default:
                         Console.WriteLine("Invalid inbut");
+                        break;
 
                    
 
